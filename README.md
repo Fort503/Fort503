@@ -1,4 +1,4 @@
-### Hola, soy Christopher Moz 👋
+### Hello World, soy Christopher Moz 👋
 
 - 🔭 Estudio en la Universidad de Sonsonate.
 - 🌱 actualmente estoy aprendiendo C++, C#, Bash y Python.
