@@ -2,8 +2,8 @@
 
 - 🔭 Estudio en la Universidad de Sonsonate.
 - 🌱 actualmente estoy aprendiendo C++, C#, Bash y Python.
-- 💬 Preguntame sobre Java y Laravel
-- 📝 Perfil en construcción (recién creado)
+- 💬 Preguntame sobre Java y Laravel.
+- 📝 Perfil en construcción (recién creado),
 
 <h3 align="center">Estadísticas </h3>
 <p align="center">
