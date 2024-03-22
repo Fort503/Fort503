@@ -5,13 +5,9 @@
 - 💬 Preguntame sobre Java y Laravel
 - 📝 Perfil en construcción (recien creado)
 
-<h3 align="left">Estadisticas: </h3>
-
-![Fort503's Stats](https://github-readme-stats.vercel.app/api?username=Fort503&theme=react&show_icons=true&hide_border=false&count_private=true)
-![Fort503's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fort503&theme=react&show_icons=true&hide_border=false&layout=compact)
-
+<h3 align="center">Estadisticas: </h3>
 <p align="center">
-<a href="https://github.com/ArisGuimera">
+<a href="https://github.com/Fort503">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fort503&theme=react&show_icons=true&hide_border=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fort503&theme=react&show_icons=true&hide_border=false&layout=compact"/>
 </a>
