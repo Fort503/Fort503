@@ -1,4 +1,4 @@
-### Hola, soy Christopher Alvarez 👋
+### Hola, soy Christopher Moz 👋
 
 - 🔭 Estudio en la Universidad de Sonsonate.
 - 🌱 actualmente estoy aprendiendo C++, C#, Bash y Python.
