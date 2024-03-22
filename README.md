@@ -5,7 +5,7 @@
 - 💬 Preguntame sobre Java y Laravel
 - 📝 Perfil en construcción (recien creado)
 
-<h3 align="center">Estadisticas: </h3>
+<h3 align="left">Estadisticas: </h3>
 <p align="center">
 <a href="https://github.com/Fort503">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fort503&theme=react&show_icons=true&hide_border=false&count_private=true"/>
