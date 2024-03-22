@@ -4,7 +4,7 @@
 - 🌱 actualmente estoy aprendiendo C++, C#, Bash y Python.
 - 💬 Preguntame sobre Java y Laravel
 
-##estadisticas
+<h3 align="left">Estadisticas: </h3>
 ![Fort503's Stats](https://github-readme-stats.vercel.app/api?username=Fort503&theme=dracula&show_icons=true&hide_border=false&count_private=true) ![Fort503's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fort503&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 
 <h3 align="left">Languajes y herramientas que he utilizado:</h3>
