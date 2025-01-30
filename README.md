@@ -1,9 +1,7 @@
 ### Hello World, soy Christopher Moz 👋
 
 - 🔭 Estudio en la Universidad de Sonsonate.
-- 🌱 actualmente estoy aprendiendo C++, C#, Bash, Godot y Python.
 - 💬 Preguntame sobre Java y Laravel.
-- 📝 Perfil en construcción (recién creado).
 
 <h3 align="center">Estadísticas </h3>
 <p align="center">
